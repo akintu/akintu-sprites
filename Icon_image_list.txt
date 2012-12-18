@@ -1,0 +1,26 @@
+﻿Icon_image_list.txt
+
+Contains a list of which icons go with which abilities.
+
+Spells:
+
+  Tier I:
+    Arcane Dart        :: water-bolt.svg
+    Arcane Warding     :: juggler.svg
+    Mystic Shield      :: energy-shield.svg
+    Flicker of Life    :: candle-flame.svg
+    Stone Guard        :: stone-sphere.svg
+    Singe              :: fire-bowl.svg
+    Chill              :: snowflake-2.svg
+    Shock              :: lightning-frequency.svg
+    Suggest:Laziness   :: oppression.svg
+    Stutter            :: drama-masks.svg
+    Cloud Vision       :: sunken-eye.svg
+    Haunt              :: ghost.svg
+    Zone of Silence    :: nothing-to-say.svg
+    Blurry             :: two-shadows.svg
+    Weapon Enhance     :: sparkling-saber.svg
+    Flaming Weapon     :: flaming-trident.svg        
+
+
+Last updated: Dec. 17th, 2012
