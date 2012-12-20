@@ -78,7 +78,16 @@ Traits:
     Treasure Hunter     :: metal-disk.svg
     Dilatant            :: radial-balance.svg
 
-  
+  Ranger:
+    Wounding Projectiles :: nailed-foot.svg
+    Melee Archery        :: high-shot.svg
+    Nature Training      :: laurels.svg
+    Explorer             :: footprint.svg
+    Trapsmith            :: tripwire.svg
+    Dangerous Traps      :: hazard-sign.svg
+    Mastermind           :: over-infinity.svg
+    Followup Expert      :: striking-diamonds.svg
+    Trap Sadism          :: tribal-mask.svg
     
     
 Last updated: Dec. 20th, 2012
