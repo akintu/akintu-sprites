@@ -54,5 +54,31 @@ Spells:
     Dazzling Lights            :: star-pupil.svg
     Spellhunger Weapon         :: winged-sword.svg
 
+Traits:
 
-Last updated: Dec. 17th, 2012
+  Fighter:
+    Parry             :: sword-clash.svg
+    Preparation       :: stopwatch.svg
+    Tank              :: lamellar.svg
+    Fencer            :: scale-mail.svg
+    Shield Resilience :: arrows-shield.svg
+    Bully             :: muscle-up.svg
+    Boldness          :: strong.svg
+    Well Travelled    :: walking-boot.svg
+    Hammer and Anvil  :: anvil-impact.svg
+    
+  Thief:
+    Uncanny Evasion     :: ninja-mask.svg
+    Stealthy Daggers    :: rogue.svg
+    Dueling             :: stiletto.svg
+    Two-weapon Fighting :: spinning-blades.svg
+    Clever              :: fox-head.svg
+    Lucky               :: king.svg
+    Discerning Eyes     :: gaze.svg
+    Treasure Hunter     :: metal-disk.svg
+    Dilatant            :: radial-balance.svg
+
+  
+    
+    
+Last updated: Dec. 20th, 2012
