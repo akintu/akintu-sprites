@@ -38,4 +38,21 @@ Spells:
     Shrink             :: inner-self.svg
     Frost Weapon       :: frozen-arrow.svg
 
+  Tier III:
+    Runic Circle of Protection :: reticule.svg
+    Runic Cirlce of Defiance   :: targeting.svg
+    Arcane Missile Barrage     :: energy-arrow.svg    
+    Expunge                    :: hospital-cross.svg
+    Spiritual Beam             :: hypersonic-bolt.svg
+    Charge                     :: energise.svg
+    Torch                      :: burning-passion.svg
+    Icy Mist                   :: snowing.svg
+    Exude Darkness             :: death-zone.svg
+    Fever                      :: psychic-waves.svg
+    Dump Mana                  :: ink-swirl.svg
+    Periphery                  :: distraction.svg
+    Dazzling Lights            :: star-pupil.svg
+    Spellhunger Weapon         :: winged-sword.svg
+
+
 Last updated: Dec. 17th, 2012
