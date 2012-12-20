@@ -21,6 +21,21 @@ Spells:
     Blurry             :: two-shadows.svg
     Weapon Enhance     :: sparkling-saber.svg
     Flaming Weapon     :: flaming-trident.svg        
-
+    
+  Tier II:
+    Arcane Burst       :: spiked-shell.svg
+    Identification     :: uncertainty.svg
+    Hovering Shield    :: winged-shield.svg
+    Fright             :: terror.svg
+    Infection          :: syringe.svg
+    Hands of Healing   :: magic-palm.svg
+    Elemental Boon     :: magic-shield.svg
+    Torrent            :: wave-crest.svg
+    Lightning Bolt     :: focused-lightning.svg
+    Suggest: Cowardice :: back-pain.svg
+    Pit                :: impact-point.svg
+    Smoke Screen       :: heat-haze.svg
+    Shrink             :: inner-self.svg
+    Frost Weapon       :: frozen-arrow.svg
 
 Last updated: Dec. 17th, 2012
