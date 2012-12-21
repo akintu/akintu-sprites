@@ -89,5 +89,11 @@ Traits:
     Followup Expert      :: striking-diamonds.svg
     Trap Sadism          :: tribal-mask.svg
     
+  Wizard:
+    Resevoir             :: spiral-bottle.svg
+    Survivor             :: heart-bottle.svg
+    Spell Focus(all)     :: gift-of-knowledge.svg
+
+
     
 Last updated: Dec. 20th, 2012
