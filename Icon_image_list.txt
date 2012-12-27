@@ -123,7 +123,14 @@ Skills:
     Double Shot              :: double-shot.svg    
     Trap Tar                 :: burst-blob.svg
 
+  Wizard:
+    Magic Guard              :: eye-shield.svg
+    Gather                   :: magic-swirl.svg
+    Apply Salve              :: brandy-bottle.svg
+    Spell Sight              :: brass-eye.svg
+    Runic Dust               :: smoking-finger.svg
+    Befuddle                 :: jigsaw-box.svg
 
-    
 
-Last updated: Dec. 26th, 2012
+
+Last updated: Dec. 27th, 2012
