@@ -131,6 +131,22 @@ Skills:
     Runic Dust               :: smoking-finger.svg
     Befuddle                 :: jigsaw-box.svg
 
+  Thief:
+    Stealth                  :: hidden.svg
+    Backstab                 :: backstab.svg
+    Lockpicking              :: padlock.svg
+    Swipe Potion             :: snatch.svg
+    Disarm Trap              :: tinker.svg
+    Hit and Run              :: cycle.svg
+    Agile Position           :: batwing-emblem.svg
+    Feint                    :: hazard-sign.svg
+    Far-Sighted Focus        :: cyclops.svg
+    All or Nothing           :: diving-dagger.svg
+    Redirect                 :: radial-balance.svg
+    Dirty Shot               :: mouth-watering.svg
+    Shock Factor             :: surprised.svg
+
+
 
 
 Last updated: Dec. 27th, 2012
