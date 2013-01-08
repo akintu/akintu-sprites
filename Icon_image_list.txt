@@ -146,7 +146,27 @@ Skills:
     Dirty Shot               :: mouth-watering.svg
     Shock Factor             :: surprised.svg
 
+Combo Class Skills:
 
+  Barbarian:
+    Berserker Rage                   :: swallow.svg
+	Cold Endurance                   :: mountaintop.svg
+	Magical Vulnerability            :: ubisoft-sun.svg
+	Sacrificial Strike               :: dripping-knife.svg
+	Mighty Weapon                    :: battle-axe.svg (!)
+	Two-weapon Targeting             :: crossed-slashes.svg
+	Desperate Strike                 :: bleeding-heart.svg
+	Blood on the Edge                :: stigmata.svg
+	Magical Ignorance                :: ubisoft-sun.svg (!)
+	Blood of the Ancients            :: half-heart.svg
+	Stunning Recovery                :: interdiction.svg
+	Walk it Off                      :: walking-boot.svg (!)
+	Crush Armor                      :: slashed-shield.svg
+	Guzzle                           :: droplets.svg
+	Improved Berserker Rage          :: swallow (U)
+	
+	
+	
 
 
 Last updated: Jan. 8th, 2013
