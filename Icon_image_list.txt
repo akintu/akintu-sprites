@@ -104,14 +104,14 @@ Skills:
     Precise Blow             :: target-shot.svg
     Thrust                   :: spiral-thrust.svg
     Clobber                  :: hammer-drop.svg
-    Wound Leg                :: nailed-foot.svg
+    Wound Leg                :: nailed-foot.svg (!)
     Wound Arm                :: cut-palm.svg
     Combo Attack             :: sword-array.svg
     Rush                     :: sprint.svg
     
   Ranger:
     Longbow Proficiency      :: pocket-bow.svg
-    Expert Notch             :: high-shot.svg
+    Expert Notch             :: high-shot.svg (!)
     Trap Shrapnel            :: cogsplosion.svg
     Tunnel Vision            :: spectacle-lenses.svg
     Trap Sticky              :: goo-explosion.svg
@@ -139,14 +139,14 @@ Skills:
     Disarm Trap              :: tinker.svg
     Hit and Run              :: cycle.svg
     Agile Position           :: batwing-emblem.svg
-    Feint                    :: hazard-sign.svg
+    Feint                    :: hazard-sign.svg (!)
     Far-Sighted Focus        :: cyclops.svg
     All or Nothing           :: diving-dagger.svg
-    Redirect                 :: radial-balance.svg
+    Redirect                 :: radial-balance.svg (!)
     Dirty Shot               :: mouth-watering.svg
     Shock Factor             :: surprised.svg
 
 
 
 
-Last updated: Dec. 27th, 2012
+Last updated: Jan. 8th, 2013
