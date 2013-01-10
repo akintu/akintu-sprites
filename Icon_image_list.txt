@@ -163,7 +163,36 @@ Combo Class Skills:
 	Walk it Off                      :: walking-boot.svg (!)
 	Crush Armor                      :: slashed-shield.svg
 	Guzzle                           :: droplets.svg
-	Improved Berserker Rage          :: swallow (U)
+	Improved Berserker Rage          :: swallow.svg (U)
+	
+  Dragoon:
+	  Jump Attack                    :: bat-blade.svg
+	  Polearm Specialization         :: halberd.svg
+	  Dragon Foe                     :: imp.svg
+	  Fire-Touched                   :: wildfires.svg
+	  Faster Jump Attack             :: bat-blade.svg (U)
+	  Diagonal Thrusts               :: split-cross.svg
+	  Jumping Recovery               :: bat-blade.svg (U)
+	  Long Reach                     :: harpoon-chain.svg
+	  Crushing Jump Attack           :: bat-blade.svg (U)
+	  Spear-Pierce                   :: pierced-body.svg
+	  Restful Jump Attack            :: bat-blade.svg (U)
+	  
+  Weapon Master:
+    Direct Counterattack                 :: battle-gear.svg
+	Shield Deflection                    :: shield-reflection.svg
+	Shield Bash                          :: edged-shield.svg
+	Shield Counter                       :: shield-echos.svg
+	Two-Handed Parry                     :: shard-sword.svg
+	True Friend                          :: heart-inside.svg
+	Hold the Line                        :: white-tower.svg
+	Direct Counterattack 2               :: battle-gear.svg (U)
+	Two-Weapon Glancing                  :: sword-clash.svg (!)
+	Rapid Bandaging                      :: sticking-plaster.svg
+	Cleave                               :: axe-swing.svg
+	
+	
+	  
 	
 	
 	
