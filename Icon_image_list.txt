@@ -229,6 +229,31 @@ Combo Class Skills:
 	Smoking Projectile                   :: chemical-arrow.svg
 	Beacon Trap                          :: land-mine.svg
 	
+  Druid:
+    Knowledge of Poisons                 :: poison-bottle.svg
+	Potency of Poisons                   :: dripping-knife.svg (!)
+	Exposure to Poison                   :: bleeding-heart.svg (!)
+	Deep Wound                           :: ragged-wound.svg
+	Painful Shot                         :: spiral-arrow.svg
+	Poisonous Touch                      :: pointing.svg
+	Target Throat                        :: targeting.svg (!)
+	Time with Nature                     :: mountains.svg
+	Poison Thorn Trap                    :: barbed-wire.svg
+    Lethargic Shot                       :: coma.svg
+	Study with Poison                    :: bookmark.svg
 	
-
+  Tactician:
+    Accuracy Favor                       :: on-target.svg
+	Mana Favor                           :: crystal-shine.svg
+	Spells of Deception                  :: crystal-eye.svg
+	Magical Dampening Trap               :: crystal-cluster.svg
+	Nearsighted Trap                     :: tear-tracks.svg
+	Mage Hunting                         :: sonic-boom.svg
+	Tactical Resistance                  :: pawn.svg
+	Mighty Favor                         :: muscle-up.svg (!)
+	Improved Basic Favors                :: on-target.svg (U)
+	Offensive Tactics                    :: poker-hand.svg
+	
+  
+	
 Last updated: Jan. 10th, 2013
