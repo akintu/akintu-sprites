@@ -191,8 +191,28 @@ Combo Class Skills:
 	Rapid Bandaging                      :: sticking-plaster.svg
 	Cleave                               :: axe-swing.svg
 	
+  Spellsword:
+    Seeker of Enchantments               :: compass.svg
+	Duality                              :: scales.svg
+	Lasting Enchantment                  :: hourglass.svg
+	Martial Mode                         :: muscle-up.svg (!)
+	Splash Magic                         :: splurt.svg
+	Focal Point                          :: freedom-dove.svg
+	Blades of Reduction                  :: all-for-one.svg
+	Rebound                              :: divert.svg
+	Improved Martial Mode                :: muscle-up.svg (U)
 	
-	  
+  Anarchist:
+    Trap Chaos                           :: explosive-materials.svg
+	Follow Up                            :: wave-strike.svg
+	Face Shot                            :: headshot.svg
+	Trap Worry                           :: eyeball.svg
+	Harmless Grin                        :: mad-scientist.svg
+	Shock and Burn                       :: pyromaniac.svg
+	Explosive Trap                       :: implosion.svg
+	Rushed Delivery                      :: journey.svg
+	Grab Bag                             :: snatch.svg
+	Celebrate Misfortune                 :: sharp-smile.svg
 	
 	
 	
