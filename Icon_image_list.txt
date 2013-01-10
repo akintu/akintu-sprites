@@ -254,6 +254,23 @@ Combo Class Skills:
 	Improved Basic Favors                :: on-target.svg (U)
 	Offensive Tactics                    :: poker-hand.svg
 	
+  Ninja:
+    Conceal                              :: hidden.svg (!)
+	Shuriken Training                    :: shuriken.svg
+	Southern Tiger                       :: paw.svg
+	Flying Crane                         :: feathered-wing.svg
+	Way of the Serpent                   :: snake.svg
+	Swift Panther                        :: wolf-head.svg
+	Dragon Master                        :: sea-serpent.svg
+	Blind Strike                         :: whiplash.svg
+	Pin                                  :: needle-drill.svg
+	Follow-through                       :: sword-slice.svg
+	Bait                                 :: angel-outfit.svg
+	Hidden Slice                         :: cloack-dagger.svg
+	Urgency Attack                       :: bloody-stash.svg
+	Whittle Away                         :: tower-fall.svg
+	Chi blast                            :: hypersonic-bolt.svg
+	
   
 	
 Last updated: Jan. 10th, 2013
