@@ -214,8 +214,21 @@ Combo Class Skills:
 	Grab Bag                             :: snatch.svg
 	Celebrate Misfortune                 :: sharp-smile.svg
 	
+  Marksman:
+    Excellent Vision                     :: spectacles.svg
+	Laying in Wait                       :: hidden.svg (!)
+	Cusp of Escape                       :: arrowed.svg
+	Fire Handler                         :: flaming-claw.svg
+	Hot Arrow                            :: flaming-arrow.svg
+	Camouflage                           :: ninja-mask.svg (!)
+	Hot Bullet                           :: burning-dot.svg
+	Shortbow Niche                       :: pocket-bow.svg (!)
+	Suppressing Fire                     :: arrow-cluster.svg
+    Inredible Focus                      :: prayer.svg
+	Superior Training                    :: archery-target.svg
+	Smoking Projectile                   :: chemical-arrow.svg
+	Beacon Trap                          :: land-mine.svg
 	
 	
 
-
-Last updated: Jan. 8th, 2013
+Last updated: Jan. 10th, 2013
