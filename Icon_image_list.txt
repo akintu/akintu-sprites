@@ -284,6 +284,22 @@ Combo Class Skills:
 	Risky Shot                           :: hazard-sign.svg (!)
 	Panic Step                           :: boot-stomp.svg
 	
+  Shaodw:
+    Shadow Walk                          :: hidden.svg (!)
+	Backflip                             :: cycle.svg (!)
+	A Dabbler of Sorts                   :: drink-me.svg
+	Bleeding Back                        :: dripping-knife.svg (!)
+	Treasure Bag                         :: cash.svg
+	An Eye for Value                     :: cash.svg (!)
+	Rear Assault                         :: slavery-whip.svg
+	Quick with a Crossbow                :: wavy-itinerary.svg
+	Sling Skills                         :: ember-shot.svg
+	Stealth Recovery                     :: shining-heart.svg
+	Hide in Peril                        :: skull-mask.svg
+	Stunning Backstab                    :: backstab.svg (U)
+	Sudden Flurry                        :: sword-array.svg (!)
+	Shadow-Melder                        :: cowled.svg
+	
   
 	
 Last updated: Jan. 11th, 2013
