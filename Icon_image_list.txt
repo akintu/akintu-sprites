@@ -271,6 +271,19 @@ Combo Class Skills:
 	Whittle Away                         :: tower-fall.svg
 	Chi blast                            :: hypersonic-bolt.svg
 	
+  Assassin:
+    Ranged Backstab                      :: arrowed.svg (!)
+	Anatomy                              :: anatomy.svg
+	Hidden Shot                          :: cloack-dagger.svg (!)
+	Visible Attack                       :: rogue.svg (!)
+	Sneaky Sneaky                        :: tread.svg
+	Cautious Shot                        :: worried-eyes.svg
+	Slightly Sneakier                    :: barefoot.svg
+	Massive Shot                         :: supersonic-arrow.svg
+	Dabbles with Poison                  :: poison-bottle.svg (!)
+	Risky Shot                           :: hazard-sign.svg (!)
+	Panic Step                           :: boot-stomp.svg
+	
   
 	
-Last updated: Jan. 10th, 2013
+Last updated: Jan. 11th, 2013
