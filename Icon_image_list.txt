@@ -300,6 +300,19 @@ Combo Class Skills:
 	Sudden Flurry                        :: sword-array.svg (!)
 	Shadow-Melder                        :: cowled.svg
 	
+  Nightblade:
+    Low light Advantage                  :: paper-lantern.svg
+    Single Blade                         :: flying-dagger.svg
+	Up close and personal                :: blade-bite.svg
+	Shadowstep                           :: journey.svg (!)
+	Single Blade 2                       :: flying-dagger.svg (U)
+	Dark Intent                          :: wave-strike.svg (!)
+	Single Blade 3                       :: flying-dagger.svg (U)
+	Seeping Darkness                     :: skull-bolt.svg
+	
   
+	
+	
+	
 	
 Last updated: Jan. 11th, 2013
