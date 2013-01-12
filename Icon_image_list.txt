@@ -333,6 +333,19 @@ Combo Class Skills:
 	Warp Shot                            :: tron-arrow.svg
 	Precision Threading                  :: thorn-helix.svg
 	
-  
+  Trickster:
+    Wild Survival                        :: tribal-mask.svg
+	Glee                                 :: sing.svg
+	Infuriating Blows                    :: shouting.svg
+	Sidestep                             :: footprint.svg (!)
+	Double Dodge                         :: backup.svg
+	Risky Focus                          :: dead-eye.svg
+	Weary Bolt                           :: hydra-shot.svg
+	Risky Fighting                       :: daggers.svg
+	Curious Drain                        :: life-tap.svg
+	Slightly Smugger                     :: morbid-humour.svg
+	Just Plain Lucky                     :: pumpkin-lantern.svg
+	Scar Cut                             :: scythe.svg
 	
+  
 	
