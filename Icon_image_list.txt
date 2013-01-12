@@ -310,9 +310,19 @@ Combo Class Skills:
 	Single Blade 3                       :: flying-dagger.svg (U)
 	Seeping Darkness                     :: skull-bolt.svg
 	
+  Battlemage:
+    Close-Range Magic                    :: thor-fist.svg
+	Mana Attack                          :: crystal-cluster.svg (!)
+	Dire Mana                            :: heart-burn.svg
+	Mystical Accuracy                    :: third-eye.svg
+	Mystical Shield Use                  :: bolt-shield.svg
+	Buffer Strike                        :: energy-sword.svg
+	Rapid Retreat                        :: run.svg
+	Military Training                    :: battle-gear.svg (!)
+	Inner Might                          :: glowing-hands.svg
+	Refraction                           :: floating-crystal.svg
+	Deflecting Rod                       :: crystal-wand.svg
+	
   
 	
 	
-	
-	
-Last updated: Jan. 11th, 2013
