@@ -323,6 +323,16 @@ Combo Class Skills:
 	Refraction                           :: floating-crystal.svg
 	Deflecting Rod                       :: crystal-wand.svg
 	
+  Arcane Archer:
+    Mana Arrows                          :: spiral-arrow.svg (!)
+	Arcane Threading                     :: sewing-needle.svg
+	Mystical Research                    :: bookmarklet.svg
+	Triple-charged Arrow                 :: wingerd-arrow.svg
+	Improved Arcane Threading            :: sewing-needle.svg (U)
+	Electric Threading                   :: lightning-bow.svg
+	Warp Shot                            :: tron-arrow.svg
+	Precision Threading                  :: thorn-helix.svg
+	
   
 	
 	
