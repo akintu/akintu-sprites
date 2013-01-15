@@ -347,5 +347,16 @@ Combo Class Skills:
 	Just Plain Lucky                     :: pumpkin-lantern.svg
 	Scar Cut                             :: scythe.svg
 	
-  
+  Sorcerer:
+    Guardian of Bronze                   :: croc-sword.svg
+	Guardian of Safety                   :: sacrificial-dagger.svg
+	Vicarious Mana                       :: paw-heart.svg
+	Slowly Rejuvinate                    :: dna1.svg
+	Transfer Essence                     :: back-forth.svg
+	Synergy Casting                      :: linked-rings.svg
+	Guardian of Jelly                    :: dripping-goo.svg
+	Bolster Guardian                     :: armoured-shell.svg
+	Empathy Shell                        :: mesh-ball.svg
+	Guardian of Stone                    :: rune-stone.svg
+	Synergy Resistance                   :: laser-warning.svg
 	
