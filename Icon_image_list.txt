@@ -126,7 +126,7 @@ Skills:
   Wizard:
     Magic Guard              :: eye-shield.svg
     Gather                   :: magic-swirl.svg
-    Apply Salve              :: brandy-bottle.svg
+    Reverse Hex              :: ribbon.svg
     Spell Sight              :: brass-eye.svg
     Runic Dust               :: smoking-finger.svg
     Befuddle                 :: jigsaw-box.svg
@@ -135,7 +135,7 @@ Skills:
     Stealth                  :: hidden.svg
     Backstab                 :: backstab.svg
     Lockpicking              :: padlock.svg
-    Swipe Potion             :: snatch.svg
+    Chain Grasp              :: andromeda-chain.svg
     Disarm Trap              :: tinker.svg
     Hit and Run              :: cycle.svg
     Agile Position           :: batwing-emblem.svg
