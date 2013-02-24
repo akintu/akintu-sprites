@@ -359,4 +359,7 @@ Combo Class Skills:
 	Empathy Shell                        :: mesh-ball.svg
 	Guardian of Stone                    :: rune-stone.svg
 	Synergy Resistance                   :: laser-warning.svg
+
+Misc:
+   Default image :: cubeforce.svg
 	
