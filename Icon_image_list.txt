@@ -5,22 +5,22 @@ Contains a list of which icons go with which abilities.
 Spells:
 
   Tier I:
-    Arcane Dart        :: water-bolt.svg
-    Arcane Warding     :: juggler.svg
-    Mystic Shield      :: energy-shield.svg
-    Flicker of Life    :: candle-flame.svg
-    Stone Guard        :: stone-sphere.svg
-    Singe              :: fire-bowl.svg
-    Chill              :: snowflake-2.svg
-    Shock              :: lightning-frequency.svg
-    Suggest:Laziness   :: oppression.svg
-    Stutter            :: drama-masks.svg
-    Cloud Vision       :: sunken-eye.svg
-    Haunt              :: ghost.svg
-    Zone of Silence    :: nothing-to-say.svg
-    Blurry             :: two-shadows.svg
-    Weapon Enhance     :: sparkling-saber.svg
-    Flaming Weapon     :: flaming-trident.svg        
+    Arcane Dart        :: water-bolt.svg --> arcane-dart.png
+    Arcane Ward        :: juggler.svg --> arcane-ward.png
+    Mystic Shield      :: energy-shield.svg --> mystic-shield.png
+    Flicker of Life    :: candle-flame.svg --> flicker-of-life.png
+    Stone Guard        :: stone-sphere.svg --> stone-sphere.png
+    Singe              :: fire-bowl.svg --> singe.png
+    Chill              :: snowflake-2.svg --> chill.png
+    Shock              :: lightning-frequency.svg --> shock.png
+    Suggest:Laziness   :: oppression.svg --> suggest-laziness.png
+    Stutter            :: drama-masks.svg --> stutter.png
+    Cloud Vision       :: sunken-eye.svg --> cloud-vision.png
+    Haunt              :: ghost.svg --> haunt.png
+    Zone of Silence    :: nothing-to-say.svg --> zone-of-silence.png
+    Blurry             :: two-shadows.svg --> blurry.png
+    Weapon Enhance     :: sparkling-saber.svg --> weapon-enhance.png
+    Flaming Weapon     :: flaming-trident.svg --> flaming-weapon.png
     
   Tier II:
     Arcane Burst       :: spiked-shell.svg
@@ -57,113 +57,113 @@ Spells:
 Traits:
 
   Fighter:
-    Parry             :: sword-clash.svg
-    Preparation       :: stopwatch.svg
-    Tank              :: lamellar.svg
-    Fencer            :: scale-mail.svg
-    Shield Resilience :: arrows-shield.svg
-    Bully             :: muscle-up.svg
-    Boldness          :: strong.svg
-    Well Travelled    :: walking-boot.svg
-    Hammer and Anvil  :: anvil-impact.svg
+    Parry             :: sword-clash.svg --> parry.png
+    Preparation       :: stopwatch.svg --> preparation.png
+    Tank              :: lamellar.svg --> tank.png
+    Fencer            :: scale-mail.svg --> fencer.png
+    Shield Resilience :: arrows-shield.svg --> shield-resilience.png
+    Bully             :: muscle-up.svg --> bully.png
+    Boldness          :: strong.svg --> boldness.png
+    Well Travelled    :: walking-boot.svg --> well-travelled.png
+    Hammer and Anvil  :: anvil-impact.svg --> hammer-and-anvil.png
     
   Thief:
-    Uncanny Evasion     :: ninja-mask.svg
-    Stealthy Daggers    :: rogue.svg
-    Dueling             :: stiletto.svg
-    Two-weapon Fighting :: spinning-blades.svg
-    Clever              :: fox-head.svg
-    Lucky               :: king.svg
-    Discerning Eyes     :: gaze.svg
-    Treasure Hunter     :: metal-disk.svg
-    Dilatant            :: radial-balance.svg
+    Uncanny Evasion     :: ninja-mask.svg --> uncanny-evasion.png
+    Stealthy Daggers    :: rogue.svg --> stealthy-daggers.png
+    Dueling             :: stiletto.svg --> dueling.png
+    Two-weapon Fighting :: spinning-blades.svg --> two-weapon-fighting.png
+    Clever              :: fox-head.svg --> clever.png
+    Lucky               :: king.svg --> lucky.png
+    Discerning Eyes     :: gaze.svg --> discerning-eyes.png
+    Treasure Hunter     :: metal-disk.svg --> treasure-hunter.png
+    Dilatant            :: radial-balance.svg --> dilatant.png
 
   Ranger:
-    Wounding Projectiles :: nailed-foot.svg
-    Melee Archery        :: high-shot.svg
-    Nature Training      :: laurels.svg
-    Explorer             :: footprint.svg
-    Trapsmith            :: tripwire.svg
-    Dangerous Traps      :: hazard-sign.svg
-    Mastermind           :: over-infinity.svg
-    Followup Expert      :: striking-diamonds.svg
-    Trap Sadism          :: tribal-mask.svg
+    Wounding Projectiles :: nailed-foot.svg --> wounding-projectiles.png
+    Melee Archery        :: high-shot.svg --> melee-archery.png
+    Nature Training      :: laurels.svg --> nature-training.png
+    Explorer             :: footprint.svg --> explorer.png
+    Trapsmith            :: tripwire.svg --> trapsmith.png
+    Dangerous Traps      :: hazard-sign.svg --> dangerous-traps.png
+    Mastermind           :: over-infinity.svg --> mastermind.png
+    Followup Expert      :: striking-diamonds.svg --> followup-expert.png
+    Trap Sadism          :: tribal-mask.svg --> trap-sadism.png
     
   Wizard:
-    Resevoir             :: spiral-bottle.svg
-    Survivor             :: heart-bottle.svg
-    Spell Focus(all)     :: gift-of-knowledge.svg
+    Resevoir             :: spiral-bottle.svg --> resevoir.png
+    Survivor             :: heart-bottle.svg --> survivor.png
+    Spell Focus(all)     :: gift-of-knowledge.svg -$spellschool$.png
 
 Skills:
 
   Fighter:
-    Mighty Blow              :: battle-axe.svg
-    Brace                    :: guarded-tower.svg
-    Dash                     :: wingfoot.svg
-    Quick Strike             :: knife-thrust.svg
-    Precise Blow             :: target-shot.svg
-    Thrust                   :: spiral-thrust.svg
-    Clobber                  :: hammer-drop.svg
-    Wound Leg                :: nailed-foot.svg (!)
-    Wound Arm                :: cut-palm.svg
-    Combo Attack             :: sword-array.svg
-    Rush                     :: sprint.svg
+    Mighty Blow              :: battle-axe.svg --> mighty-blow.png
+    Brace                    :: guarded-tower.svg -->brace.png
+    Dash                     :: wingfoot.svg --> dash.png
+    Quick Strike             :: knife-thrust.svg --> quick-strike.png
+    Precise Blow             :: target-shot.svg --> precise-blow.png
+    Thrust                   :: spiral-thrust.svg --> thrust.png
+    Clobber                  :: hammer-drop.svg --> clobber.png
+    Wound Leg                :: nailed-foot.svg --> wound-leg.png
+    Wound Arm                :: cut-palm.svg --> wound-arm.png
+    Combo Attack             :: sword-array.svg --> combo-attack.png
+    Rush                     :: sprint.svg --> rush.png
     
   Ranger:
-    Longbow Proficiency      :: pocket-bow.svg
-    Expert Notch             :: high-shot.svg (!)
-    Trap Shrapnel            :: cogsplosion.svg
-    Tunnel Vision            :: spectacle-lenses.svg
-    Trap Sticky              :: goo-explosion.svg
-    Balm                     :: honeypot.svg
-    Rapid Reload             :: scalpel-strike.svg
-    Ranger's Aim             :: target-arrows.svg    
-    Trap Boulder-Pit         :: rock.svg
-    Defensive Slash          :: quick-slash.svg
-    Double Shot              :: double-shot.svg    
-    Trap Tar                 :: burst-blob.svg
+    Longbow Proficiency      :: pocket-bow.svg --> longbow-proficiency.png
+    Expert Notch             :: high-shot.svg --> expert-notch.png 
+    Trap Shrapnel            :: cogsplosion.svg --> shrapnel-trap.png
+    Tunnel Vision            :: spectacle-lenses.svg --> tunnel-vision.png
+    Trap Sticky              :: goo-explosion.svg --> sticky-trap.png
+    Balm                     :: honeypot.svg --> balm.png
+    Rapid Reload             :: scalpel-strike.svg --> rapid-reload.png
+    Ranger's Aim             :: target-arrows.svg --> rangers-aim.png
+    Trap Boulder-Pit         :: rock.svg --> boulder-pit-trap.png
+    Defensive Slash          :: quick-slash.svg --> defensive-slash.png
+    Double Shot              :: double-shot.svg --> double-shot.png
+    Trap Tar                 :: burst-blob.svg --> tar-trap.png
 
   Wizard:
-    Magic Guard              :: eye-shield.svg
-    Gather                   :: magic-swirl.svg
-    Reverse Hex              :: ribbon.svg
-    Spell Sight              :: brass-eye.svg
-    Runic Dust               :: smoking-finger.svg
-    Befuddle                 :: jigsaw-box.svg
+    Magic Guard              :: eye-shield.svg --> magic-guard.png
+    Gather                   :: magic-swirl.svg --> gather.png
+    Reverse Hex              :: ribbon.svg --> reverse-hex.png
+    Spell Sight              :: brass-eye.svg --> spell-sight.png
+    Runic Dust               :: smoking-finger.svg --> runic-dust.png
+    Befuddle                 :: jigsaw-box.svg --> befuddle.png
 
   Thief:
-    Stealth                  :: hidden.svg
-    Backstab                 :: backstab.svg
-    Lockpicking              :: padlock.svg
-    Chain Grasp              :: andromeda-chain.svg
-    Disarm Trap              :: tinker.svg
-    Hit and Run              :: cycle.svg
-    Agile Position           :: batwing-emblem.svg
-    Feint                    :: hazard-sign.svg (!)
-    Far-Sighted Focus        :: cyclops.svg
-    All or Nothing           :: diving-dagger.svg
-    Redirect                 :: radial-balance.svg (!)
-    Dirty Shot               :: mouth-watering.svg
-    Shock Factor             :: surprised.svg
+    Stealth                  :: hidden.svg --> stealth.png
+    Backstab                 :: backstab.svg --> backstab.png
+    Lockpicking              :: padlock.svg --> lockpicking.png
+    Chain Grasp              :: andromeda-chain.svg --> chain-grasp.png
+    Disarm Trap              :: tinker.svg --> disarm-trap.png
+    Hit and Run              :: cycle.svg --> hit-and-run.png
+    Agile Position           :: batwing-emblem.svg --> agile-position.png
+    Feint                    :: hazard-sign.svg --> feint.png
+    Far-Sighted Focus        :: cyclops.svg --> far-sighted-focus.png
+    All or Nothing           :: diving-dagger.svg --> all-or-nothing.png
+    Redirect                 :: radial-balance.svg --> redirect.png
+    Dirty Shot               :: mouth-watering.svg --> dirty-shot.png
+    Shock Factor             :: surprised.svg --> shock-factor.png
 
 Combo Class Skills:
 
   Barbarian:
-    Berserker Rage                   :: swallow.svg
-	Cold Endurance                   :: mountaintop.svg
-	Magical Vulnerability            :: ubisoft-sun.svg
-	Sacrificial Strike               :: dripping-knife.svg
-	Mighty Weapon                    :: battle-axe.svg (!)
-	Two-weapon Targeting             :: crossed-slashes.svg
-	Desperate Strike                 :: bleeding-heart.svg
-	Blood on the Edge                :: stigmata.svg
-	Magical Ignorance                :: ubisoft-sun.svg (!)
-	Blood of the Ancients            :: half-heart.svg
-	Stunning Recovery                :: interdiction.svg
-	Walk it Off                      :: walking-boot.svg (!)
-	Crush Armor                      :: slashed-shield.svg
-	Guzzle                           :: droplets.svg
-	Improved Berserker Rage          :: swallow.svg (U)
+    Berserker Rage                   :: swallow.svg --> berserker-rage.png
+	Cold Endurance                   :: mountaintop.svg --> cold-endurance.png
+	Magical Vulnerability            :: ubisoft-sun.svg --> magical-vulnerability.png
+	Sacrificial Strike               :: dripping-knife.svg --> sacrificial-strike.png
+	Mighty Weapon                    :: battle-axe.svg --> mighty-weapon.png
+	Two-weapon Targeting             :: crossed-slashes.svg --> two-weapon-targeting.png
+	Desperate Strike                 :: bleeding-heart.svg --> desperate-strike.png
+	Blood on the Edge                :: stigmata.svg --> blood-on-the-edge.png
+	Magical Ignorance                :: ubisoft-sun.svg --> magical-ignorance.png
+	Blood of the Ancients            :: half-heart.svg --> blood-of-the-ancients.png
+	Stunning Recovery                :: interdiction.svg --> stunning-recovery.png
+	Walk it Off                      :: walking-boot.svg --> walk-it-off.png
+	Crush Armor                      :: slashed-shield.svg --> crush-armor.png
+	Guzzle                           :: droplets.svg --> guzzle.png
+	Improved Berserker Rage          :: swallow.svg --> berserker-rage.png
 	
   Dragoon:
 	  Jump Attack                    :: bat-blade.svg
@@ -192,15 +192,15 @@ Combo Class Skills:
 	Cleave                               :: axe-swing.svg
 	
   Spellsword:
-    Seeker of Enchantments               :: compass.svg
-	Duality                              :: scales.svg
-	Lasting Enchantment                  :: hourglass.svg
-	Martial Mode                         :: muscle-up.svg (!)
-	Splash Magic                         :: splurt.svg
-	Focal Point                          :: freedom-dove.svg
-	Blades of Reduction                  :: all-for-one.svg
-	Rebound                              :: divert.svg
-	Improved Martial Mode                :: muscle-up.svg (U)
+    Seeker of Enchantments               :: compass.svg --> seeker-of-enchantments.png
+	Duality                              :: scales.svg --> duality.png
+	Lasting Enchantment                  :: hourglass.svg --> lasting-enchantment.png
+	Martial Mode                         :: muscle-up.svg --> martial-mode.png
+	Splash Magic                         :: splurt.svg --> splash-magic.png
+	Focal Point                          :: freedom-dove.svg --> focal-point.png
+	Blades of Reduction                  :: all-for-one.svg --> blades-of-reduction.png
+	Rebound                              :: divert.svg --> rebound.png
+	Improved Martial Mode                :: muscle-up.svg --> martial-mode.png
 	
   Anarchist:
     Trap Chaos                           :: explosive-materials.svg
@@ -215,7 +215,7 @@ Combo Class Skills:
 	Celebrate Misfortune                 :: sharp-smile.svg
 	
   Marksman:
-    Excellent Vision                     :: spectacles.svg
+        Excellent Vision                     :: spectacles.svg
 	Laying in Wait                       :: hidden.svg (!)
 	Cusp of Escape                       :: arrowed.svg
 	Fire Handler                         :: flaming-claw.svg
@@ -224,7 +224,7 @@ Combo Class Skills:
 	Hot Bullet                           :: burning-dot.svg
 	Shortbow Niche                       :: pocket-bow.svg (!)
 	Suppressing Fire                     :: arrow-cluster.svg
-    Inredible Focus                      :: prayer.svg
+        Inredible Focus                      :: prayer.svg
 	Superior Training                    :: archery-target.svg
 	Smoking Projectile                   :: chemical-arrow.svg
 	Beacon Trap                          :: land-mine.svg
@@ -239,7 +239,7 @@ Combo Class Skills:
 	Target Throat                        :: targeting.svg (!)
 	Time with Nature                     :: mountains.svg
 	Poison Thorn Trap                    :: barbed-wire.svg
-    Lethargic Shot                       :: coma.svg
+        Lethargic Shot                       :: coma.svg
 	Study with Poison                    :: bookmark.svg
 	
   Tactician:
@@ -272,19 +272,19 @@ Combo Class Skills:
 	Chi blast                            :: hypersonic-bolt.svg
 	
   Assassin:
-    Ranged Backstab                      :: arrowed.svg (!)
-	Anatomy                              :: anatomy.svg
-	Hidden Shot                          :: cloack-dagger.svg (!)
-	Visible Attack                       :: rogue.svg (!)
-	Sneaky Sneaky                        :: tread.svg
-	Cautious Shot                        :: worried-eyes.svg
-	Slightly Sneakier                    :: barefoot.svg
-	Massive Shot                         :: supersonic-arrow.svg
-	Dabbles with Poison                  :: poison-bottle.svg (!)
-	Risky Shot                           :: hazard-sign.svg (!)
-	Panic Step                           :: boot-stomp.svg
+    Ranged Backstab                      :: arrowed.svg --> ranged-backstab.png
+	Anatomy                              :: anatomy.svg --> anatomy.png
+	Hidden Shot                          :: cloack-dagger.svg --> hidden-shot.png
+	Visible Attack                       :: rogue.svg --> visible-attack.png
+	Sneaky Sneaky                        :: tread.svg --> sneaky-sneaky.png
+	Cautious Shot                        :: worried-eyes.svg --> cautious-shot.png
+	Slightly Sneakier                    :: barefoot.svg --> slightly-sneakier.png
+	Massive Shot                         :: supersonic-arrow.svg --> massive-shot.png
+	Dabbles with Poison                  :: poison-bottle.svg --> dabbles-with-poison.png
+	Risky Shot                           :: hazard-sign.svg --> risky-shot.png
+	Panic Step                           :: boot-stomp.svg --> panic-step.png
 	
-  Shaodw:
+  Shadow:
     Shadow Walk                          :: hidden.svg (!)
 	Backflip                             :: cycle.svg (!)
 	A Dabbler of Sorts                   :: drink-me.svg
@@ -311,27 +311,27 @@ Combo Class Skills:
 	Seeping Darkness                     :: skull-bolt.svg
 	
   Battlemage:
-    Close-Range Magic                    :: thor-fist.svg
-	Mana Attack                          :: crystal-cluster.svg (!)
-	Dire Mana                            :: heart-burn.svg
-	Mystical Accuracy                    :: third-eye.svg
-	Mystical Shield Use                  :: bolt-shield.svg
-	Buffer Strike                        :: energy-sword.svg
-	Rapid Retreat                        :: run.svg
-	Military Training                    :: battle-gear.svg (!)
-	Inner Might                          :: glowing-hands.svg
-	Refraction                           :: floating-crystal.svg
-	Deflecting Rod                       :: crystal-wand.svg
+    Close-Range Magic                    :: thor-fist.svg --> close-range-magic.png
+	Mana Attack                          :: crystal-cluster.svg --> mana-attack.png
+	Dire Mana                            :: heart-burn.svg --> dire-mana.png
+	Mystical Accuracy                    :: third-eye.svg --> mystical-accuracy.png
+	Mystical Shield Use                  :: bolt-shield.svg --> mystical-shield-use.png
+	Buffer Strike                        :: energy-sword.svg --> buffer-strike.png
+	Rapid Retreat                        :: run.svg --> rapid-retreat.png
+	Military Training                    :: battle-gear.svg --> military-training.png
+	Inner Might                          :: glowing-hands.svg --> inner-might.png
+	Refraction                           :: floating-crystal.svg --> refraction.png
+	Deflecting Rod                       :: crystal-wand.svg --> deflecting-rod.png
 	
   Arcane Archer:
-    Mana Arrows                          :: spiral-arrow.svg (!)
-	Arcane Threading                     :: sewing-needle.svg
-	Mystical Research                    :: bookmarklet.svg
-	Triple-charged Arrow                 :: wingerd-arrow.svg
-	Improved Arcane Threading            :: sewing-needle.svg (U)
-	Electric Threading                   :: lightning-bow.svg
-	Warp Shot                            :: tron-arrow.svg
-	Precision Threading                  :: thorn-helix.svg
+    Mana Arrows                          :: spiral-arrow.svg --> mana-arrows.png
+	Arcane Threading                     :: sewing-needle.svg --> arcane-threading.png
+	Mystical Research                    :: bookmarklet.svg --> mystical-research.png
+	Triple-charged Arrow                 :: wingerd-arrow.svg --> triple-charged-arrow.png
+	Improved Arcane Threading            :: sewing-needle.svg --> arcane-threading.png
+	Electric Threading                   :: lightning-bow.svg --> electric-threading.png
+	Warp Shot                            :: tron-arrow.svg --> warp-shot.png
+	Precision Threading                  :: thorn-helix.svg --> precision-threading.png
 	
   Trickster:
     Wild Survival                        :: tribal-mask.svg
